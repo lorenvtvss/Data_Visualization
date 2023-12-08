@@ -1,0 +1,4 @@
+numpy
+bokeh>=2.2.1
+colorcet
+colorsys
